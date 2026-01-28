@@ -28,9 +28,9 @@ public class Anagram {
                 }
 
                 if (isAnagram) {
-                    System.out.println(word1 + "|" + word2 + " - ANAGRAM");
+                    System.out.println(word1 + "|" + word2 + " = ANAGRAM");
                 } else {
-                    System.out.println(word1 + "|" + word2 + " - NOT AN ANAGRAM");
+                    System.out.println(word1 + "|" + word2 + " = NOT AN ANAGRAM");
                 }
             }
         }
